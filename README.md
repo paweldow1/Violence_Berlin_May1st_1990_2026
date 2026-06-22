@@ -54,15 +54,3 @@ Turnout disrupted by format reorganisation then recovering. Violence reaches its
 **2011–2026 · The scissors effect**
 Turnout grows to record highs. Violence falls to historic lows. Possible explanations: dilution of radical participants in larger crowds; institutionalisation of May Day as a festival.
 
-## How to publish on GitHub Pages
-
-1. Fork or clone this repository
-2. Go to **Settings → Pages**
-3. Set source to `main` branch, `/ (root)`
-4. Your site will be live at `https://yourusername.github.io/berlin-may1`
-
-No build step required — the site is a single self-contained HTML file with no external dependencies beyond Chart.js (loaded from cdnjs).
-
-## License
-
-Data from Polizei Berlin is public record. Analysis and visualisation code: MIT.
